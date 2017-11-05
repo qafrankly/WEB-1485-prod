@@ -5,8 +5,6 @@ import Video from 'components/media/Video';
 import AdvertisementUnit from 'components/AdvertisementUnit';
 import { Button } from 'antd';
 ReactDOM.render(<Button>xxxx</Button>);
- 
-      ↓ ↓ ↓ ↓ ↓ ↓
       
 var _button = require('antd/lib/button');
 ReactDOM.render(<_button>xxxx</_button>);
